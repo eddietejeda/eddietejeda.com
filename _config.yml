@@ -1,0 +1,50 @@
+name:               "Eddie A Tejeda"
+description:        ""
+
+url:                ""
+author:             "eddietejeda"
+gravatar_hash:      "491a4a6bc98f587e4d44b18b78055223"
+twitter:            "eddietejeda"
+email:              "website@eddietejeda.com"
+github:             "eddietejeda"
+linkedin:           "eddietejeda"
+
+# background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+
+paginate:           5
+paginate_path:      "/page:num/"
+
+baseurl:            ""
+permalink:          /:year/:month/:day/:title/
+
+markdown:           kramdown
+
+nav:
+  - name:           "About"
+    href:           "/"
+  # - name:           "Work"
+  #   href:           "/work"
+  # - name:           "Writing"
+  #   href:           "/writing"
+  # - name:           "Speaking"
+  #   href:           "/speaking"
+
+sass:
+  style:            :compressed
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+  - jekyll-paginate
