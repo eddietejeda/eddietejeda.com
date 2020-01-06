@@ -21,8 +21,7 @@ I currently serve as the Director of [Cloud.gov](https://cloud.gov) at [18F](htt
 
 
 ***Public Profile Sample:***
-- **FCW** - <u>Delivering Smarter Digital Services</u> - Speaker
-- **Federal News Network** - [The Journey to Delivering the Mission in the Cloud](https://youtu.be/ygDy9ZLdy04?t=387) - Speaker
+- **Federal News Network** - [The Journey to Delivering the Mission in the Cloud](https://federalnewsnetwork.com/federal-insights/2019/12/cloud-migration-is-maturing-but-its-far-from-simple/) - Speaker
 - **IRS Container Technology Inter-Agency Forum** - <u>Container Panel: Lessons Learned and Future State</u> - Speaker
 - **Strata Conference** - <u>Government Data on Both Sides of the Bridge</u> - Speaker
 - **League of California Cities** - <u>Case Studies on How To Leverage Public, Private, and Non-Profit Partnerships to Drive Better Land Use Planning</u> - Radio Interview
