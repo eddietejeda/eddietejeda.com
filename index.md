@@ -5,9 +5,12 @@ layout: page
 
 I have fifteen years of experience modernizing institutions. 
 
-I currently serve as the Director of [Cloud.gov](https://cloud.gov) at [18F](https://18f.gsa.gov)
 
-***Previously:***
+***Current:***
+
+  - [18F](https://18f.gsa.gov), Director of [Cloud.gov](https://cloud.gov)
+
+***Previous:***
 
   - <a href="http://civicinsight.com">Civic Insight</a> (*acquired*) - Co-Founder / CEO
   - <a href="https://www.codeforamerica.org">Code for America</a> - Fellow
