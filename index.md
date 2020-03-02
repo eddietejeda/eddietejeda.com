@@ -17,7 +17,7 @@ I have fifteen years of experience modernizing institutions.
   - <a href="http://accela.com">Accela</a> - Principal Product Manager
   - <a href="http://openoakland.org">OpenOakland</a> - Co-Founder 
   - <a href="https://www.oaklandca.gov/boards-commissions/public-ethics-commission">City of Oakland - Public Ethics Commission</a> - Commissioner, Vice Chair
-  - <a href="https://web.archive.org/web/20120620221618/http://regulationroom.org/about/">Regulation Room at Cornell Law School</a> - Developer and Strategist
+  - <a href="https://web.archive.org/web/20120620221618/http://regulationroom.org/about/">Cornell Law School - Regulation Room</a> - Developer and Strategist
   - <a href="http://futureofthebook.org">Institute for the Future of the Book</a> - Researcher
   - <a href="https://littlesis.org">LittleSis.org</a> - Developer
 
