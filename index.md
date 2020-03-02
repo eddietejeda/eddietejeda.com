@@ -8,7 +8,7 @@ I have fifteen years of experience modernizing institutions.
 
 ***Current:***
 
-  - [18F](https://18f.gsa.gov), Director of [Cloud.gov](https://cloud.gov)
+  - [18F](https://18f.gsa.gov) - Director of [Cloud.gov](https://cloud.gov)
 
 ***Previous:***
 
