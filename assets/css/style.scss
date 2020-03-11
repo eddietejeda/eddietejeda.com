@@ -322,7 +322,11 @@ tbody tr:nth-child(odd) th {
         border-radius: 50%;
         display: block;
         margin: 1rem auto;
-//        display: inline;
+        background-image: url({{site.baseurl}}/assets/images/EIJLmhlWoAAK5md.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 150px !important;
+        width: 150px !important;        
 
     }
     h3 {
