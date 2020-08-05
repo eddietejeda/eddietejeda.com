@@ -3,8 +3,7 @@ layout: page
 ---
 
 
-I have fifteen years of experience modernizing institutions. 
-
+I have fifteen years of experience working on tech for the public interest.
 
 ***Current:***
 
