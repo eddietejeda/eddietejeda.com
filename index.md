@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-I have fifteen years of experience working on tech for the public interest.
+I have fifteen years of experience working in tech for the public interest.
 
 ***Current:***
 
