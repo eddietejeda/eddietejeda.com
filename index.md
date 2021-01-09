@@ -2,14 +2,15 @@
 layout: page 
 ---
 
-
-I have fifteen years of experience working in tech for the public interest.
+I bring a creative approach to solving problems. I blend technical and business skills to create sustainable and scalable systems. I’ve built high-functioning technical teams, launched large-scale applications, built trust with senior executives, and led multi-million dollar negotiations. I focus on challenges that have a positive and meaningful impact on society.
+ 
+Interested in disucssing civic tech, start ups, or about government? <a href="https://calendly.com/eddietejeda/30min">Schedule time here.</a>
 
 ***Current:***
 
   - [18F](https://18f.gsa.gov) - Director of [Cloud.gov](https://cloud.gov)
 
-***Previous:***
+***Previous Roles:***
 
   - <a href="http://civicinsight.com">Civic Insight</a> (*acquired*) - Co-Founder / CEO
   - <a href="https://www.codeforamerica.org">Code for America</a> - Fellow
@@ -21,8 +22,7 @@ I have fifteen years of experience working in tech for the public interest.
   - <a href="https://littlesis.org">LittleSis.org</a> - Developer
 
 
-
-***Public Profile Sample:***
+***Public Profile:***
 - **Federal News Network** - [The Journey to Delivering the Mission in the Cloud](https://federalnewsnetwork.com/federal-insights/2019/12/cloud-migration-is-maturing-but-its-far-from-simple/) - Speaker
 - **IRS Container Technology Inter-Agency Forum** - <u>Container Panel: Lessons Learned and Future State</u> - Speaker
 - **Strata Conference** - <u>Government Data on Both Sides of the Bridge</u> - Speaker
