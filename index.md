@@ -8,10 +8,11 @@ Are you interested in discussing civic tech, start-ups, or government? <a href="
 
 ***Current:***
 
-  - [18F](https://18f.gsa.gov) - Director of [Cloud.gov](https://cloud.gov)
+  - [Nava PBC](https://navapbc.com) - Director of Engineering / Infrastructure
 
 ***Previous Roles:***
 
+  - [18F](https://18f.gsa.gov) - Director of [Cloud.gov](https://cloud.gov)
   - <a href="http://civicinsight.com">Civic Insight</a> (*acquired*) - Co-Founder / CEO
   - <a href="https://www.codeforamerica.org">Code for America</a> - Fellow
   - <a href="http://accela.com">Accela</a> - Principal Product Manager
