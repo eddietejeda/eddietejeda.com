@@ -2,7 +2,7 @@
 layout: page 
 ---
 
-I bring a creative approach to solving problems. I blend technical and business skills to create sustainable and scalable systems. I’ve built high-functioning technical teams, launched large-scale applications, built trust with senior executives, and led large contract negotiations. I focus on efforts that have a positive and meaningful impact on society.
+I bring a creative approach to solving complex problems. I blend technical and business skills to create sustainable and scalable systems. I’ve built high-functioning technical teams, launched large-scale applications, built trust with senior executives, and led large contract negotiations. I focus on efforts that bring a positive and meaningful impact on society.
  
 Are you interested in discussing civic tech, start-ups, or digital services? <a href="https://calendly.com/eddietejeda/30min">Schedule time here.</a>
 
