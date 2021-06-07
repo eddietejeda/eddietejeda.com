@@ -1,8 +1,9 @@
 ---
 ---
 
-$open-sans: 'Open Sans', sans-serif;
-$source-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+//$open-sans: 'Open Sans', sans-serif;
+//$source-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$primary-font: "Spectral", Merriweather, Georgia, serif;
 
 * {
     -webkit-box-sizing: border-box;
@@ -28,7 +29,7 @@ body {
 }
 
 html {
-    font-family: $source-sans;
+    font-family: $primary-font;
     font-size: 18px;
     font-weight: 300;
     line-height: 1.6;
