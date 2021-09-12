@@ -1,3 +1,3 @@
-# eddietejeda.com
+# Personal Site
 
-Based on  [Ink theme](https://github.com/thinker3197/ink/blob/master/LICENSE) 
+https://eddietejeda.com
