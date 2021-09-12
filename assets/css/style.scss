@@ -323,7 +323,7 @@ tbody tr:nth-child(odd) th {
         border-radius: 50%;
         display: block;
         margin: 1rem auto;
-        background-image: url({{site.baseurl}}/assets/images/p6YBnz_1_400x400.jpg);
+        background-image: url(https://secure.gravatar.com/avatar/{{site.gravatar_hash}}?size=512);
         background-position: center;
         background-size: cover;
         height: 150px !important;
