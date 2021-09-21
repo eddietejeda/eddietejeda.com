@@ -8,10 +8,11 @@ Are you interested in discussing civic tech, start-ups, or digital services? <a 
 
 ***Current:***
 
-  - [Nava PBC](https://navapbc.com) - Director of Engineering - Infrastructure
+  - [Mode Analytics](https://mode.com) - Senior Director of Engineering 
 
 ***Previous Roles:***
 
+  - [Nava PBC](https://navapbc.com) - Director of Engineering
   - [18F](https://18f.gsa.gov) - Director of [Cloud.gov](https://cloud.gov)
   - [Civic Insight](http://civicinsight.com) (*acquired*) - Co-Founder / CEO 
   - [Code for America](https://www.codeforamerica.org) - Fellow 
