@@ -8,8 +8,7 @@ twitter:            "eddietejeda"
 email:              "website@eddietejeda.com"
 github:             "eddietejeda"
 linkedin:           "eddietejeda"
-
-# background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+mastodon:           "hachyderm.io/@eddietejeda"
 
 paginate:           5
 paginate_path:      "/page:num/"
@@ -22,12 +21,6 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "/"
-  # - name:           "Work"
-  #   href:           "/work"
-  # - name:           "Writing"
-  #   href:           "/writing"
-  # - name:           "Speaking"
-  #   href:           "/speaking"
 
 sass:
   style:            :compressed
