@@ -9,22 +9,28 @@
         <p>{{ site.description }}</p>
         <ul class="social">
             {% if site.github %}
-            <a type="button" href="http://github.com/{{ site.github }}">
+            <a type="button" href="https://github.com/{{ site.github }}">
                 <i class="fa fa-github"></i>
             </a>
             {% endif %} {% if site.twitter %}
-            <a type="button" href="http://twitter.com/{{ site.twitter }}">
+            <a type="button" href="https://twitter.com/{{ site.twitter }}">
                 <i class="fa fa-twitter"></i>
             </a>
             {% endif %} {% if site.linkedin %}
-            <a type="button" href="http://linkedin.com/in/{{ site.linkedin }}">
+            <a type="button" href="https://linkedin.com/in/{{ site.linkedin }}">
                 <i class="fa fa-linkedin"></i>
             </a>
             {% endif %} {% if site.facebook %}
-            <a type="button" href="http://facebook.com/{{ site.facebook }}">
+            <a type="button" href="https://facebook.com/{{ site.facebook }}">
                 <i class="fa fa-facebook"></i>
             </a>
+            {% endif %} {% if site.mastodon %}
+            <a rel="me" type="button" href="{{ site.mastodon }}">
+                <i class="fab fa-mastodon"></i>
+            </a>
             {% endif %}
+            
+            
         </ul>
     </div>
     <div class="posts">
