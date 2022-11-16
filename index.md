@@ -2,10 +2,12 @@
 layout: page 
 ---
 
-I bring a creative approach to solving complex problems. I focus on work that serves the public interest.
+I build engineering teams.
+<!-- I bring a creative approach to solving complex problems. I focus on work that serves the public interest.
  
 Are you interested in discussing civic tech, start-ups, or digital services? <a href="https://calendly.com/eddietejeda/30min">Schedule time here.</a>
-
+ -->
+ 
 ***Current:***
 
   - [Mode Analytics](https://mode.com) - Senior Director of Engineering 
