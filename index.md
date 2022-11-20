@@ -2,7 +2,7 @@
 layout: page 
 ---
 
-I build engineering teams.
+I build engineering teams. I focus on work that is in the public interest.
 
 ***Current:***
 
