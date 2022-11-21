@@ -4,8 +4,12 @@ layout: default
 
 {% include header.html %}
 
-<div class="content post">
-  <h1 class="post-title">{{ page.title }}</h1>
+<div class="content post">  
+  <h3 class="post-title">
+    <a href="{{ post.url }}">{{ page.title }}</a>
+  </h3> 
+  
+  
   <div class="post-date">
     <time>{{ page.date | date_to_string }}</time>
   </div>
