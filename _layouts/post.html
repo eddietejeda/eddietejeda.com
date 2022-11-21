@@ -4,14 +4,20 @@ layout: default
 
 {% include header.html %}
 
+
 <div class="content post">  
-  <h3 class="post-title">
+
+  <h4 class="post-title">
     <a href="{{ post.url }}">{{ page.title }}</a>
-  </h3> 
+  </h4> 
   
   
   <div class="post-date">
-    <time>{{ page.date | date_to_string }}</time>
+    <!-- <time>{{ page.date | date_to_string }}</time> -->
   </div>
   {{ content }}
+
+
+  <a href="/archive">&laquo; archive</a>
+
 </div>
