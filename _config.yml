@@ -25,6 +25,13 @@ nav:
 sass:
   style:            :compressed
 
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+
 defaults:
   -
     scope:
