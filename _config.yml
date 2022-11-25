@@ -1,4 +1,4 @@
-title:              "Eddie A Tejeda - Thoughts on Systems"
+title:              "Eddie A Tejeda"
 name:               "Eddie A Tejeda"
 author:             "Eddie A Tejeda"
 description:        ""
@@ -11,8 +11,8 @@ github:             "eddietejeda"
 linkedin:           "eddietejeda"
 mastodon:           "hachyderm.io/@eddietejeda"
 
-paginate:           5
-paginate_path:      "/page:num/"
+# paginate:           5
+# paginate_path:      "/page:num/"
 
 baseurl:            ""
 permalink:          /:year/:month/:day/:title/
@@ -48,6 +48,6 @@ defaults:
       layout:       "post"
 
 plugins:
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-feed
   
