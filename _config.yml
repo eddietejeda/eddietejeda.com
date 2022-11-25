@@ -1,8 +1,9 @@
+title:              "Eddie A Tejeda - Thoughts on Systems"
 name:               "Eddie A Tejeda"
+author:             "Eddie A Tejeda"
 description:        ""
 
 url:                ""
-author:             "eddietejeda"
 gravatar_hash:      "491a4a6bc98f587e4d44b18b78055223"
 twitter:            "eddietejeda"
 email:              "website@eddietejeda.com"
@@ -46,5 +47,7 @@ defaults:
     values:
       layout:       "post"
 
-gems:
+plugins:
   - jekyll-paginate
+  - jekyll-feed
+  
