@@ -2,11 +2,14 @@
 layout: page 
 ---
 
-I build engineering teams. I focus on work in the public interest.
+I enjoy building high-functioning engineering and management teams.
+
+
+Are you interested in meeting me? <a href="https://tidycal.com/eddie.tejeda/30-minute-meeting">Schedule time here.</a>
 
 ***Current:***
 
-  - [Mode Analytics](https://mode.com) - Senior Director of Engineering 
+  - [Mode Analytics](https://mode.com) - Senior Director of Engineering, Platform and Services
 
 ***Previous Roles:***
 
