@@ -4,7 +4,7 @@ layout: page
 
 I enjoy building large-scale data systems and high-functioning engineering and management teams. I have experience the public and private sectors.
 
-Are you interested in meeting me? <a href="https://tidycal.com/eddie.tejeda/30-minute-meeting">Schedule time here.</a>
+Are you interested in meeting me? <a href="https://tidycal.com/eddietejeda/30-minute-meeting">Schedule time here.</a>
 
 ***Current:***
 
