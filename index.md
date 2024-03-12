@@ -8,10 +8,11 @@ Are you interested in meeting me? <a href="https://tidycal.com/eddietejeda/30-mi
 
 ***Current:***
 
-  - [Mode Analytics](https://mode.com) - Senior Director of Engineering, Platform and Services
+  - [ThoughtSpot](https://thoughtspot.com) - Senior Director of Engineering, Mode Platform
 
 ***Previous Roles:***
 
+  - [Mode Analytics](https://mode.com) - Senior Director of Engineering, Data Platform & Platform Engineering
   - [Nava PBC](https://navapbc.com) - Director of Engineering
   - [18F](https://18f.gsa.gov) - Director of [Cloud.gov](https://cloud.gov)
   - [Civic Insight](http://civicinsight.com) (*acquired*) - Co-Founder / CEO 
