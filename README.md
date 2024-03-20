@@ -1,3 +1,3 @@
 # Personal Site
 
-https://www.eddietejeda.com
+https://eddietejeda.com
