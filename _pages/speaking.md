@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Reactions
+title: Highlights
 ---
-
-Highlights
-----------
 
 2014
 ----
