@@ -1,4 +1,7 @@
---- layout: page ---
+---
+layout: page
+title: Reactions
+---
 
 Highlights
 ----------
