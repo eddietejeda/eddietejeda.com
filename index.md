@@ -6,9 +6,7 @@ Hi, I'm Eddie. I build data platforms and platform engineering teams at growth-s
 
 I enjoy analyzing complex systems and am passionate about modernizing and evolving organizations. I’ve also worked extensively on open-source and open-data standards for cities and the federal government.
 
-Additionally, I provide advisory and coaching services to Engineering and Product organizations. 
-
-If you're interested in connecting, <a href="https://tidycal.com/eddietejeda/30-minute-meeting">schedule time here.</a>
+If you're interested in speaking with me, <a href="https://tidycal.com/eddietejeda/30-minute-meeting">schedule time here.</a>
 
 ***Current:***
 
