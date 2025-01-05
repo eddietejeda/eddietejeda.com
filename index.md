@@ -10,7 +10,7 @@ If you're interested in speaking with me, <a href="https://tidycal.com/eddieteje
 
 ***Current:***
 
-  - [ThoughtSpot](https://thoughtspot.com) - Senior Director of Engineering, Mode Analytics Platform
+  - [ThoughtSpot](https://thoughtspot.com) - VP of Engineering
 
 ***Previous Roles:***
 
