@@ -2,7 +2,7 @@
 layout: page 
 ---
 
-Hi, I'm Eddie. I build data platforms and platform engineering teams at growth-stage companies. Previously, I co-founded Civic Insight, a data analytics company that was acquired, and led the integration of the product and data platform. I am now Senior Director of Engineering at ThoughtSpot Inc., where I lead the integration of our infrastructure, data platform, AI, and data science teams. 
+Hi, I'm Eddie. I build data platforms and platform engineering teams at growth-stage companies. Previously, I co-founded Civic Insight, a data analytics company that was acquired, and led the integration of the product and data platform. I am now VP of Engineering at ThoughtSpot Inc., where I lead data platform, visualizations, AI, infrastructure, and data science teams. 
 
 I enjoy analyzing complex systems and am passionate about modernizing and evolving organizations. I’ve also worked extensively on open-source and open-data standards for cities and the federal government.
 
