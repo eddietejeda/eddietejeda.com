@@ -14,7 +14,7 @@ If you're interested in speaking with me, <a href="https://tidycal.com/eddieteje
 
 ***Previous Roles:***
 
-  - [Mode Analytics](https://mode.com) - Senior Director of Engineering, Data Platform & Platform Engineering
+  - [Mode Analytics](https://mode.com) - (*acquired*) Senior Director of Engineering, Data Platform & Platform Engineering
   - [Nava PBC](https://navapbc.com) - Director of Engineering
   - [18F](https://18f.gsa.gov) - Director of [Cloud.gov](https://cloud.gov)
   - [Civic Insight](http://civicinsight.com) (*acquired*) - Co-Founder / CEO 
