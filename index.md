@@ -18,7 +18,7 @@ If you're interested in speaking with me, <a href="https://tidycal.com/eddieteje
   - [Nava PBC](https://navapbc.com) - Director of Engineering
   - [18F](https://cloud.gov) - Director of [Cloud.gov](https://cloud.gov)
   - [Civic Insight](http://civicinsight.com) (*acquired*) - Co-Founder / CEO 
-  - [Code for America](https://www.codeforamerica.org) - Fellow 
+  - [Code for America](https://codeforamerica.org) - Fellow 
   - [Accela](http://accela.com) - Principal Product Manager 
   - [OpenOakland](http://openoakland.org) - Co-Founder / Director of Technology 
   - [City of Oakland - Public Ethics Commission](https://www.oaklandca.gov/boards-commissions/public-ethics-commission) - Commissioner, Vice Chair 
