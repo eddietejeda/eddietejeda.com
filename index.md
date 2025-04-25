@@ -22,6 +22,6 @@ If you're interested in speaking with me, <a href="https://tidycal.com/eddieteje
   - [Accela](http://accela.com) - Principal Product Manager 
   - [OpenOakland](http://openoakland.org) - Co-Founder / Director of Technology 
   - [City of Oakland - Public Ethics Commission](https://www.oaklandca.gov/boards-commissions/public-ethics-commission) - Commissioner, Vice Chair 
-  - [Cornell Law School - Regulation Room](https://web.archive.org/web/20120620221618/http://regulationroom.org/about/) - Lead Software Engineer
-  - [Institute for the Future of the Book](http://futureofthebook.org) - Software Engineer / Researcher 
+  - [Cornell Law School - Regulation Room](https://web.archive.org/web/20120620221618/http://regulationroom.org/about/) - Software Engineer / Tech Lead 
+  - [Institute for the Future of the Book](http://futureofthebook.org) - Software Engineer / Researcher  
   - [LittleSis.org](https://littlesis.org) - Software Engineer
