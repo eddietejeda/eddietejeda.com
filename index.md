@@ -2,18 +2,21 @@
 layout: page 
 ---
 
-Hi, I'm Eddie. I build data platforms and platform engineering teams at growth-stage companies. Previously, I co-founded Civic Insight, a data analytics company that was acquired, and led the integration of the product and data platform. I am now VP of Engineering at ThoughtSpot Inc., where I lead data platform, visualizations, AI, infrastructure, and data science teams. 
+Hi, I’m Eddie. I’m a startup founder and engineer focused on infrastructure and data platforms.
 
-I enjoy analyzing complex systems and am passionate about modernizing and evolving organizations. I’ve also worked extensively on open-source and open-data standards for cities and the federal government.
+I’ve founded multiple startups, been through multiple acquisitions, and most recently led engineering at Mode Analytics and ThoughtSpot, working across data platforms, visualizations, AI, infrastructure, and data science.
+
+Today, I’m building a new company focused on rethinking how agents query data across multiple data sources.
 
 If you're interested in speaking with me, <a href="https://tidycal.com/eddietejeda/30-minute-meeting">schedule time here.</a>
 
 ***Current:***
 
-  - [ThoughtSpot](https://thoughtspot.com) - VP of Engineering
+  - Stealth Startup - Co-Founder
 
 ***Previous Roles:***
 
+  - [ThoughtSpot](https://thoughtspot.com) - VP of Engineering
   - [Mode Analytics](https://mode.com) - (*acquired*) Senior Director of Engineering, Data Platform & Platform Engineering
   - [Nava PBC](https://navapbc.com) - Director of Engineering
   - [18F](https://cloud.gov) - Director of [Cloud.gov](https://cloud.gov)
