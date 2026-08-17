@@ -12,11 +12,10 @@ If you're interested in speaking with me, <a href="https://tidycal.com/eddieteje
 
 ***Current:***
 
-  - Stealth Startup - Co-Founder, CTO
+  - [Hotdata](https://hotdata.dev) - Co-Founder / CTO
 
 ***Previous Roles:***
 
-  - [Hotdata](https://hotdata.dev) - Co-Founder / CTO
   - [ThoughtSpot](https://thoughtspot.com) - VP of Engineering
   - [Mode Analytics](https://mode.com) - (*acquired*) Senior Director of Engineering, Data Platform & Platform Engineering
   - [Nava PBC](https://navapbc.com) - Director of Engineering
