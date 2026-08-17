@@ -6,7 +6,7 @@ Hi, I’m Eddie. I’m a startup founder and engineer focused on infrastructure 
 
 I’ve founded multiple startups, been through multiple acquisitions, and most recently led engineering at Mode Analytics and ThoughtSpot, working across data platforms, visualizations, AI, infrastructure, and data science.
 
-Today, I’m building [Hotdata](https://hotdata.dev) where we are rethinking how agents query data.
+Today, I’m building [Hotdata](https://hotdata.dev) where we are rethinking how massive swarms of agents query data.
 
 If you're interested in speaking with me, <a href="https://tidycal.com/eddietejeda/30-minute-meeting">schedule time here.</a>
 
