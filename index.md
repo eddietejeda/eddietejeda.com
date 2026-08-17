@@ -6,7 +6,7 @@ Hi, I’m Eddie. I’m a startup founder and engineer focused on infrastructure 
 
 I’ve founded multiple startups, been through multiple acquisitions, and most recently led engineering at Mode Analytics and ThoughtSpot, working across data platforms, visualizations, AI, infrastructure, and data science.
 
-Today, I’m building a new company rethinking how agents query data across data sources.
+Today, I’m building [Hotdata](https://hotdata.dev) where we are rethinking how agents query data.
 
 If you're interested in speaking with me, <a href="https://tidycal.com/eddietejeda/30-minute-meeting">schedule time here.</a>
 
@@ -16,6 +16,7 @@ If you're interested in speaking with me, <a href="https://tidycal.com/eddieteje
 
 ***Previous Roles:***
 
+  - [Hotdata](https://hotdata.dev) - Co-Founder / CTO
   - [ThoughtSpot](https://thoughtspot.com) - VP of Engineering
   - [Mode Analytics](https://mode.com) - (*acquired*) Senior Director of Engineering, Data Platform & Platform Engineering
   - [Nava PBC](https://navapbc.com) - Director of Engineering
